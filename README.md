@@ -17,7 +17,6 @@ My latest project on Machine Vision! 🚀 This project focuses on exploring the 
 📌 Note:
  This output is part of my exploration, and while it showcases the pipeline's functionality, it's not perfect. Some regions are misclassified, highlighting areas for further refinement and learning.
  
-Results
 Below is the visualization:
 
 ![Visualization](./img1.png)
